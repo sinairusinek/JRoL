@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title type="main">G.F.0047-42</title><principal>sinai.rusinek@mail.huji.ac.il</principal></titleStmt><publicationStmt><publisher>tranScriptorium</publisher></publicationStmt><seriesStmt><title>Jeckes</title></seriesStmt><sourceDesc><p>TRP document creator: sinai.rusinek@mail.huji.ac.il</p></sourceDesc></fileDesc></teiHeader><facsimile><surface lrx="1428" lry="2000" ulx="0" uly="0" xml:id="facs_165"><graphic height="2000px" url="IL-MTFN-001_G.jpg" width="1428px"/><zone points="232,205 232,1064 1184,1064 1184,205" rendition="TextRegion" xml:id="facs_165_r1">
+        <zone points="686,240 709,240 725,231 735,231 742,237 754,240 766,234 774,235 773,201 762,201 756,195 746,203 701,203 697,208 685,207" rendition="Line" xml:id="facs_165_r1l1"/>
+        <zone points="234,236 527,235 534,204 468,204 450,214 385,201 336,211 323,202 258,212 234,205" rendition="Line" xml:id="facs_165_r1l2"/>
+        <zone points="232,267 279,268 294,262 302,269 310,263 326,270 344,258 377,267 412,265 412,236 379,242 367,235 346,246 300,234 231,243" rendition="Line" xml:id="facs_165_r1l3"/>
+        <zone points="234,300 257,296 292,303 327,296 350,305 360,297 410,298 410,272 396,269 358,276 343,265 266,272 234,266" rendition="Line" xml:id="facs_165_r1l4"/>
+        <zone points="234,340 289,332 326,336 336,329 396,330 396,302 389,300 376,309 335,299 320,306 297,298 285,308 264,299 234,302" rendition="Line" xml:id="facs_165_r1l5"/>
+        <zone points="227,391 481,397 488,396 488,357 439,366 317,357 296,370 266,359 227,367" rendition="Line" xml:id="facs_165_r1l6"/>
+        <zone points="270,426 1188,420 1187,385 270,394" rendition="Line" xml:id="facs_165_r1l7"/>
+        <zone points="235,458 1063,460 1183,430 234,436" rendition="Line" xml:id="facs_165_r1l8"/>
+        <zone points="234,489 717,488 708,456 651,469 617,452 561,466 234,457" rendition="Line" xml:id="facs_165_r1l9"/>
+        <zone points="236,522 1083,519 1083,492 1037,483 236,488" rendition="Line" xml:id="facs_165_r1l10"/>
+        <zone points="240,552 1176,557 1190,524 239,520" rendition="Line" xml:id="facs_165_r1l11"/>
+        <zone points="237,583 272,582 278,587 318,582 331,586 332,559 315,562 310,556 299,553 285,558 281,556 278,560 268,555 238,556" rendition="Line" xml:id="facs_165_r1l12"/>
+        <zone points="257,617 1047,625 1110,612 1110,581 257,587" rendition="Line" xml:id="facs_165_r1l13"/>
+        <zone points="237,652 879,648 878,619 836,613 236,624" rendition="Line" xml:id="facs_165_r1l14"/>
+        <zone points="240,680 1174,679 1134,644 240,653" rendition="Line" xml:id="facs_165_r1l15"/>
+        <zone points="234,715 896,716 1036,707 1036,681 233,681" rendition="Line" xml:id="facs_165_r1l16"/>
+        <zone points="236,746 1023,745 1035,713 235,714" rendition="Line" xml:id="facs_165_r1l17"/>
+        <zone points="237,774 1119,780 1152,740 236,746" rendition="Line" xml:id="facs_165_r1l18"/>
+        <zone points="234,807 1027,810 1096,806 1096,774 234,784" rendition="Line" xml:id="facs_165_r1l19"/>
+        <zone points="239,839 1155,848 1171,802 239,810" rendition="Line" xml:id="facs_165_r1l20"/>
+        <zone points="239,871 286,868 306,872 314,868 357,875 374,868 374,845 351,837 342,844 316,847 286,839 239,849" rendition="Line" xml:id="facs_165_r1l21"/>
+        <zone points="233,899 1106,902 1136,900 1136,864 233,872" rendition="Line" xml:id="facs_165_r1l22"/>
+        <zone points="242,936 1134,937 1171,901 242,910" rendition="Line" xml:id="facs_165_r1l23"/>
+        <zone points="238,967 1151,968 1170,929 238,935" rendition="Line" xml:id="facs_165_r1l24"/>
+        <zone points="235,1003 1029,1005 1146,999 1157,967 235,968" rendition="Line" xml:id="facs_165_r1l25"/>
+        <zone points="238,1030 293,1035 301,1031 314,1038 363,1028 375,1036 393,1034 393,1003 381,1000 367,1003 348,996 334,1006 319,997 238,1003" rendition="Line" xml:id="facs_165_r1l26"/>
+        <zone points="406,1061 427,1066 440,1058 454,1059 464,1066 498,1059 526,1065 539,1059 558,1066 558,1025 519,1035 498,1028 486,1039 477,1032 443,1038 406,1027" rendition="Line" xml:id="facs_165_r1l27"/>
+      </zone></surface></facsimile><text><body><div><pb facs="#facs_165" n="165" xml:id="img_0165"/><ab facs="#facs_165_r1" type="">
+      <lb facs="#facs_165_r1l1" n="N001"/>(1946)
+      <lb facs="#facs_165_r1l2" n="N002"/>Leonie Landsberg - Frank
+      <lb facs="#facs_165_r1l3" n="N003"/>z.Zt. Tel Aviv
+      <lb facs="#facs_165_r1l4" n="N004"/>c/o Koenigstein
+      <lb facs="#facs_165_r1l5" n="N005"/>Allenby Road
+      <lb facs="#facs_165_r1l6" n="N006"/>Lieber Dr. Weizmann,
+      <lb facs="#facs_165_r1l7" n="N007"/>Sicher freut es Sie zu hören, dass es meinen Kindern und mir gut geht. Evchen hat
+      <lb facs="#facs_165_r1l8" n="N008"/>einen goldigen Buben und erwartet schon ihr zweites Kind. Sie lebt mit ihrer Familie,
+      <lb facs="#facs_165_r1l9" n="N009"/>wie Sie sich erinnern werden, in Ein-Gev.
+      <lb facs="#facs_165_r1l10" n="N010"/>Lea ist noch in der A.T.S.- Clork in Cairo, und nur im Augenblick zu einem
+      <lb facs="#facs_165_r1l11" n="N011"/>Kochkursus für abgehende Soldatinnen im Strauss — Centrum in Jerusalem für wenige
+      <lb facs="#facs_165_r1l12" n="N012"/>Wochen
+      <lb facs="#facs_165_r1l13" n="N013"/>Ich bin seit Januar geschieden- Alfred ist vom Get direct unter die Chuppah
+      <lb facs="#facs_165_r1l14" n="N014"/>gegangen. Er wird so glücklich werden wie er es verdient.
+      <lb facs="#facs_165_r1l15" n="N015"/>Das Häuschen hier in Kfar Schmajahu habe ich mir, nach grossen Kämpfen erhalten
+      <lb facs="#facs_165_r1l16" n="N016"/>&amp; vermiete während der sogenannten Saison Zimmer mit, ohne Pension
+      <lb facs="#facs_165_r1l17" n="N017"/>Ich schlage mich ganz gut durch, habe mich endlich von der furchtbaren
+      <lb facs="#facs_165_r1l18" n="N018"/>Entteuschung, die Alfred mir bereitet hat, erholt &amp; ein neues Leben begonnen, auf
+      <lb facs="#facs_165_r1l19" n="N019"/>eigene Iniziative &amp; Arbeit gestellt &amp; wirklich, es geht ganz gut &amp; m. Freunde
+      <lb facs="#facs_165_r1l20" n="N020"/>behaupten sogar dass ich jünger, zufriedener und lebendstüchtiger &amp; froher sei als je
+      <lb facs="#facs_165_r1l21" n="N021"/>in Palästina.
+      <lb facs="#facs_165_r1l22" n="N022"/>Von Herzen würde ich mich freuen Sie wieder einmal zu sehen. Eine bes, Freude
+      <lb facs="#facs_165_r1l23" n="N023"/>ware es, Sie, Ihre Gattin, hier bei mir begrüssen zu dürfen, ein Dorf, das den
+      <lb facs="#facs_165_r1l24" n="N024"/>Namen Schmarjahu trägt, in m.Haus auf dem Waucope - Hügel. Ich habe genügend
+      <lb facs="#facs_165_r1l25" n="N025"/>Platz, um Sie alle bequem aufnehmen zu können. Ich erwarte gern Ihre Antwort &amp;
+      <lb facs="#facs_165_r1l26" n="N026"/>verbleibe Ihre
+      <lb facs="#facs_165_r1l27" n="N027"/>Leonie Frank</ab></div></body></text></TEI>

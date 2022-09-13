@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title type="main">G.F.0047-42</title><principal>sinai.rusinek@mail.huji.ac.il</principal></titleStmt><publicationStmt><publisher>tranScriptorium</publisher></publicationStmt><seriesStmt><title>Jeckes</title></seriesStmt><sourceDesc><p>TRP document creator: sinai.rusinek@mail.huji.ac.il</p></sourceDesc></fileDesc></teiHeader><facsimile><surface lrx="1423" lry="2000" ulx="0" uly="0" xml:id="facs_178"><graphic height="2000px" url="IL-MTFN-001_G.F.0047-42_0001_0178.jpg" width="1423px"/><zone points="213,34 213,1940 1360,1940 1360,34" rendition="TextRegion" xml:id="facs_178_r1">
+        <zone points="390,220 469,213 533,224 550,209 730,230 758,226 759,186 645,164 601,190 555,168 391,191" rendition="Line" xml:id="facs_178_r1l1"/>
+        <zone points="395,254 483,244 623,249 677,269 692,258 738,258 739,230 708,222 691,234 664,223 619,230 559,217 524,226 493,216 473,226 396,221" rendition="Line" xml:id="facs_178_r1l2"/>
+        <zone points="392,348 561,345 572,353 588,345 661,371 662,320 638,317 624,302 592,303 558,322 518,311 495,323 460,307 393,309" rendition="Line" xml:id="facs_178_r1l3"/>
+        <zone points="383,421 1216,436 1262,432 1263,383 1145,397 1103,369 1032,402 808,363 674,392 384,374" rendition="Line" xml:id="facs_178_r1l4"/>
+        <zone points="393,446 440,447 488,449 536,450 584,451 632,451 680,452 727,453 775,454 823,455 871,455 919,456 967,457 1015,457 1062,458 1110,459 1158,459 1206,460 1254,461 1302,462 1358,464 1359,434 1303,432 1255,431 1207,430 1158,429 1110,429 1063,428 1015,427 967,427 920,426 871,425 823,425 776,424 728,423 681,422 632,421 584,421 537,420 489,419 441,417 394,416" rendition="Line" xml:id="facs_178_r1l5"/>
+        <zone points="392,504 419,494 449,499 468,493 475,498 518,496 518,470 488,470 471,460 459,470 445,470 434,462 430,467 410,471 392,466" rendition="Line" xml:id="facs_178_r1l6"/>
+        <zone points="392,537 1169,564 1315,552 1316,516 886,519 818,480 609,517 392,503" rendition="Line" xml:id="facs_178_r1l7"/>
+        <zone points="390,580 1330,597 1320,563 1121,553 391,552" rendition="Line" xml:id="facs_178_r1l8"/>
+        <zone points="389,622 1299,633 1228,597 389,588" rendition="Line" xml:id="facs_178_r1l9"/>
+        <zone points="398,653 442,654 487,655 532,656 577,657 622,658 667,658 712,659 757,660 802,660 847,661 891,662 936,662 981,663 1026,664 1071,664 1116,665 1161,666 1206,667 1251,668 1311,669 1311,639 1252,638 1207,637 1162,636 1117,635 1071,634 1026,634 982,633 936,632 891,632 848,631 802,630 757,630 713,629 667,628 622,628 578,627 533,626 488,625 443,624 399,623" rendition="Line" xml:id="facs_178_r1l10"/>
+        <zone points="393,708 438,709 483,710 528,711 573,711 618,712 663,713 709,714 754,714 799,715 844,715 889,716 934,717 979,717 1025,718 1070,719 1115,720 1160,721 1205,722 1250,723 1306,729 1310,699 1252,693 1206,692 1161,691 1116,690 1071,689 1026,688 979,687 934,687 890,686 844,685 799,685 754,684 709,684 664,683 619,682 573,681 528,681 484,680 439,679 394,678" rendition="Line" xml:id="facs_178_r1l11"/>
+        <zone points="387,764 1266,768 1259,731 893,749 810,720 387,726" rendition="Line" xml:id="facs_178_r1l12"/>
+        <zone points="386,791 1366,820 1340,782 387,769" rendition="Line" xml:id="facs_178_r1l13"/>
+        <zone points="391,832 439,833 487,833 535,834 583,835 631,836 679,836 727,837 775,838 823,839 872,839 920,840 968,841 1016,842 1064,843 1112,843 1160,844 1208,845 1256,846 1304,847 1367,849 1368,820 1305,817 1257,816 1209,815 1161,814 1112,813 1064,813 1017,812 969,811 921,810 872,809 823,809 776,808 728,807 679,806 631,806 584,805 536,804 487,803 439,803 392,802" rendition="Line" xml:id="facs_178_r1l14"/>
+        <zone points="390,873 436,874 482,875 528,875 574,876 621,877 667,878 713,879 759,880 805,880 852,881 898,882 944,882 990,883 1036,884 1083,885 1129,885 1175,886 1221,886 1267,887 1329,892 1331,862 1269,857 1221,856 1175,856 1129,855 1083,855 1037,854 991,853 944,852 898,852 853,851 805,850 759,850 714,849 668,848 622,847 575,846 528,845 482,845 437,844 391,843" rendition="Line" xml:id="facs_178_r1l15"/>
+        <zone points="381,925 933,946 1271,938 1280,911 855,884 382,897" rendition="Line" xml:id="facs_178_r1l16"/>
+        <zone points="380,964 1333,975 1268,940 381,936" rendition="Line" xml:id="facs_178_r1l17"/>
+        <zone points="383,1000 1310,1017 1278,983 383,975" rendition="Line" xml:id="facs_178_r1l18"/>
+        <zone points="377,1050 1358,1069 1359,1022 377,1011" rendition="Line" xml:id="facs_178_r1l19"/>
+        <zone points="381,1086 1303,1105 1297,1065 382,1056" rendition="Line" xml:id="facs_178_r1l20"/>
+        <zone points="388,1119 435,1120 482,1120 529,1121 576,1122 624,1122 671,1123 718,1124 765,1125 812,1125 860,1126 907,1127 954,1128 1001,1129 1048,1130 1096,1131 1143,1132 1190,1133 1237,1134 1284,1135 1343,1136 1344,1106 1285,1105 1238,1104 1191,1103 1144,1102 1097,1101 1049,1100 1002,1099 955,1098 908,1097 861,1096 812,1095 765,1095 719,1094 672,1093 624,1092 576,1092 530,1091 482,1090 435,1090 389,1089" rendition="Line" xml:id="facs_178_r1l21"/>
+        <zone points="381,1159 427,1160 473,1161 520,1161 566,1162 612,1163 659,1164 705,1165 751,1165 798,1166 844,1167 890,1168 937,1169 983,1170 1029,1170 1076,1171 1122,1172 1168,1173 1215,1173 1261,1174 1323,1175 1323,1145 1262,1144 1215,1143 1168,1143 1123,1142 1077,1141 1029,1140 983,1140 938,1139 891,1138 845,1137 799,1136 751,1135 705,1135 660,1134 613,1133 567,1132 520,1131 473,1131 428,1130 382,1129" rendition="Line" xml:id="facs_178_r1l22"/>
+        <zone points="379,1219 1258,1228 1258,1191 1211,1187 379,1186" rendition="Line" xml:id="facs_178_r1l23"/>
+        <zone points="380,1253 410,1259 424,1250 475,1248 486,1255 514,1249 544,1258 578,1254 579,1237 541,1229 526,1219 508,1218 499,1225 458,1218 442,1223 381,1219" rendition="Line" xml:id="facs_178_r1l24"/>
+        <zone points="381,1281 425,1282 470,1283 514,1284 559,1285 604,1286 648,1287 693,1288 738,1289 782,1290 827,1290 872,1291 916,1292 961,1293 1006,1293 1050,1294 1095,1295 1140,1295 1184,1296 1229,1296 1279,1297 1280,1267 1229,1266 1184,1266 1140,1265 1095,1265 1051,1264 1006,1263 961,1263 917,1262 873,1261 827,1260 782,1260 739,1259 694,1258 649,1257 605,1256 560,1255 515,1254 471,1253 426,1252 382,1251" rendition="Line" xml:id="facs_178_r1l25"/>
+        <zone points="377,1324 422,1324 467,1325 512,1325 557,1326 602,1327 647,1327 692,1328 737,1329 782,1330 827,1330 872,1331 917,1332 962,1333 1007,1334 1052,1334 1097,1335 1142,1336 1187,1337 1232,1338 1290,1336 1289,1306 1232,1308 1188,1307 1143,1306 1098,1305 1052,1304 1007,1304 963,1303 918,1302 873,1301 827,1300 782,1300 738,1299 693,1298 647,1297 602,1297 558,1296 512,1295 467,1295 422,1294 377,1294" rendition="Line" xml:id="facs_178_r1l26"/>
+        <zone points="380,1373 1200,1387 1208,1358 380,1338" rendition="Line" xml:id="facs_178_r1l27"/>
+        <zone points="381,1404 425,1405 470,1406 514,1407 559,1408 603,1408 648,1409 692,1410 737,1411 781,1411 826,1412 870,1413 915,1414 959,1415 1004,1415 1048,1416 1093,1417 1137,1418 1182,1419 1226,1419 1278,1422 1280,1393 1227,1389 1182,1389 1138,1388 1094,1387 1049,1386 1004,1385 959,1385 916,1384 871,1383 827,1382 781,1381 737,1381 693,1380 649,1379 603,1378 559,1378 515,1377 471,1376 426,1375 382,1374" rendition="Line" xml:id="facs_178_r1l28"/>
+        <zone points="383,1446 429,1447 476,1448 522,1448 569,1449 615,1450 662,1451 708,1452 755,1453 801,1453 848,1454 894,1455 941,1456 987,1457 1034,1457 1080,1458 1127,1459 1173,1459 1220,1460 1266,1461 1323,1467 1326,1437 1268,1431 1221,1430 1173,1429 1127,1429 1081,1428 1034,1427 987,1427 942,1426 895,1425 849,1424 801,1423 755,1423 709,1422 663,1421 616,1420 570,1419 522,1418 476,1418 430,1417 384,1416" rendition="Line" xml:id="facs_178_r1l29"/>
+        <zone points="375,1496 1274,1516 1275,1477 1172,1469 376,1465" rendition="Line" xml:id="facs_178_r1l30"/>
+        <zone points="376,1533 796,1547 833,1545 834,1516 376,1513" rendition="Line" xml:id="facs_178_r1l31"/>
+        <zone points="377,1576 1304,1600 1305,1560 1148,1566 1053,1535 929,1563 378,1546" rendition="Line" xml:id="facs_178_r1l32"/>
+        <zone points="372,1616 1025,1636 1067,1632 1068,1608 845,1586 485,1601 373,1579" rendition="Line" xml:id="facs_178_r1l33"/>
+        <zone points="375,1657 1221,1672 1221,1640 1075,1630 512,1641 376,1620" rendition="Line" xml:id="facs_178_r1l34"/>
+        <zone points="802,1716 815,1718 825,1716 841,1724 845,1721 851,1724 868,1717 876,1717 878,1691 854,1692 852,1690 848,1694 833,1685 818,1689 816,1686 813,1688 804,1684" rendition="Line" xml:id="facs_178_r1l35"/>
+        <zone points="197,1916 1136,1943 1175,1941 1177,1874 1064,1905 600,1854 198,1863" rendition="Line" xml:id="facs_178_r1l36"/>
+      </zone></surface></facsimile><text><body><div><pb facs="#facs_178" n="178" xml:id="img_0178"/><ab facs="#facs_178_r1" type="">
+      <lb facs="#facs_178_r1l1" n="N001"/>Wiesbaden, den 18.5.56.
+      <lb facs="#facs_178_r1l2" n="N002"/>Gustav Freytagstr.1.II.
+      <lb facs="#facs_178_r1l3" n="N003"/>Lieber Herr Zweig,
+      <lb facs="#facs_178_r1l4" n="N004"/>ich bin Ihnen sehr dankbar für Ihr Bemühen und habe j<unclear>e</unclear>tzt
+      <lb facs="#facs_178_r1l5" n="N005"/>wirkl ch hier Anschluss an s ehr liebe und interessante Mens<unclear>c</unclear>hen
+      <lb facs="#facs_178_r1l6" n="N006"/>gefunden.
+      <lb facs="#facs_178_r1l7" n="N007"/>Ich habe nach ein paar sorgenvollen und arbeitsreichen Jahren
+      <lb facs="#facs_178_r1l8" n="N008"/>mich 4 Wochen in Baden- <hi rend="superscript:true;">B</hi>aden erholt und fühle mich wieder als
+      <lb facs="#facs_178_r1l9" n="N009"/>die alte L.F., die Abstand von kleinen Dingen hat und jeden-
+      <lb facs="#facs_178_r1l10" n="N010"/>falls zwischen kleinen und grossen zu unterscheiden versteht.
+      <lb facs="#facs_178_r1l11" n="N011"/>Ich möchte nun doch gern mit der <hi rend="superscript:true;">Z</hi>eit meinen Wohnsitz ändern,
+      <lb facs="#facs_178_r1l12" n="N012"/>denn es passt mir gar nicht, dass ich mich jetzt sozusagen
+      <lb facs="#facs_178_r1l13" n="N013"/>"zur Ruhe gesetzt“ habe. Ich möchte etwa in der zweiten Juniwoche
+      <lb facs="#facs_178_r1l14" n="N014"/>nach Berlin kommen und mich dort umsehen. In Berlin ist die gröss-
+      <lb facs="#facs_178_r1l15" n="N015"/>te jüdische Gemeinde, da bin ich überzeugt, dass ich eine mei-
+      <lb facs="#facs_178_r1l16" n="N016"/>nen Kenntnissen entsprechende Tätigkeit bekommen kann. Viel-
+      <lb facs="#facs_178_r1l17" n="N017"/>leicht hat Karl Marx, der dort auch ein Büro hat, eine Möglich-
+      <lb facs="#facs_178_r1l18" n="N018"/>keit für mich. Ich arbeite allerdings am liebsten auf sozialem
+      <lb facs="#facs_178_r1l19" n="N019"/>Gebiet und habe einst in Frankfurt Arbeitsvermittlung und Berufs-
+      <lb facs="#facs_178_r1l20" n="N020"/>beratung gelernt- durch Bertha Pappenheim- und habe mich auch
+      <lb facs="#facs_178_r1l21" n="N021"/>noch in einen Hamburger Kinderklinik mit Babypflege beschäftigt.
+      <lb facs="#facs_178_r1l22" n="N022"/>Ich habe sowohl von der Frankfurter Wohlfahrtszentrale, damals
+      <lb facs="#facs_178_r1l23" n="N023"/>unter Rab. Dr. Horowitz und jetzt von dem Hamburger Spital
+      <lb facs="#facs_178_r1l24" n="N024"/>Empfehlungen.
+      <lb facs="#facs_178_r1l25" n="N025"/>Ich möchte aber nur dann nach Berlin kommen, wenn ich sicher
+      <lb facs="#facs_178_r1l26" n="N026"/>bin, dass Sie zu dieser <hi rend="superscript:true;">Z</hi>eit zu Hause sind, weil ich Sie und
+      <lb facs="#facs_178_r1l27" n="N027"/>Ihre Gattin doch gerne wiedersehen und sprechen möchte.
+      <lb facs="#facs_178_r1l28" n="N028"/>Ich bitte Sie desh<unclear>alb </unclear>mir mitteilen zu wollen, ob Sie in der
+      <lb facs="#facs_178_r1l29" n="N029"/>zweiten Junihälfte sich in Berlin befinden. Ich habe jetzt meine
+      <lb facs="#facs_178_r1l30" n="N030"/>deutsche Staatsangehörigkeit wieder und sicher keine Schwie¬
+      <lb facs="#facs_178_r1l31" n="N031"/>rigkeiten zu Ihnen zu gelangen.
+      <lb facs="#facs_178_r1l32" n="N032"/>Per Drucksache sende ich Ihnen einen Artikel über Prof. Freud,
+      <lb facs="#facs_178_r1l33" n="N033"/>der Sie interessieren wird- mit gleicher Post.
+      <lb facs="#facs_178_r1l34" n="N034"/>Ich sende Ihnen und Ihrer Gattin die herzlichsten Grüsse
+      <lb facs="#facs_178_r1l35" n="N035"/>Ihre
+      <lb facs="#facs_178_r1l36" n="N036"/><add>Von Leonie Frank/ נכתב ע״י לאוני פרנק</add></ab></div></body></text></TEI>
