@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": ""
+  },
+  "text": {
+    "more": "This is a \"hello world\" attempt to export a gephi graph to be consumed online",
+    "intro": "This is a \"hello world\" attempt to export a gephi graph to be consumed online",
+    "title": "Graph of entities from the Buber corpus"
+  },
+  "legend": {
+    "edgeLabel": "Relation",
+    "colorLabel": "Type of entity",
+    "nodeLabel": "Entity"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "node_type",
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": true,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 5,
+      "minEdgeSize": 5,
+      "minNodeSize": 7,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
